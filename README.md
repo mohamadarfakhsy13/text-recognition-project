@@ -22,7 +22,7 @@ How to run the app
 
 To run the project clone the project
 
-    git clone <github link project>
+    git clone https://github.com/mohamadarfakhsy13/text-recognition-project
 
 After done clone, open the existing project using android studio
 
