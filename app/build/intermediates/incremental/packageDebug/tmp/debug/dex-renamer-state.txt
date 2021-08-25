@@ -1,0 +1,4 @@
+#Wed Aug 25 21:34:58 MYT 2021
+base.0=/Users/arfakhsy/Tutorials/text-recognition-android/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
