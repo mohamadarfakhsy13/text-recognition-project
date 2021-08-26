@@ -26,7 +26,7 @@ To run the project clone the project
 
 After done clone, open the existing project using android studio
 
-Once done finalize gradle. Click run button on top bar.
+Once done finalize index. Click run button on top bar.
 
 
 Reference
